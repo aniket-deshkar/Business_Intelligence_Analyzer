@@ -1,0 +1,11 @@
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+*.db
+*.zip
+datasets/
+ml_business_analyzer_dataset.zip
